@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://avotriniaina.github.io/csb-lpkq32/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://avotriniaina.github.io/csb-lpkq32/static/js/main.1c342e9c.chunk.js",
+    "main.js.map": "https://avotriniaina.github.io/csb-lpkq32/static/js/main.1c342e9c.chunk.js.map",
+    "runtime-main.js": "https://avotriniaina.github.io/csb-lpkq32/static/js/runtime-main.de8bb88e.js",
+    "runtime-main.js.map": "https://avotriniaina.github.io/csb-lpkq32/static/js/runtime-main.de8bb88e.js.map",
+    "static/js/2.c65d5156.chunk.js": "https://avotriniaina.github.io/csb-lpkq32/static/js/2.c65d5156.chunk.js",
+    "static/js/2.c65d5156.chunk.js.map": "https://avotriniaina.github.io/csb-lpkq32/static/js/2.c65d5156.chunk.js.map",
+    "index.html": "https://avotriniaina.github.io/csb-lpkq32/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://avotriniaina.github.io/csb-lpkq32/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.c65d5156.chunk.js.LICENSE.txt": "https://avotriniaina.github.io/csb-lpkq32/static/js/2.c65d5156.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de8bb88e.js",
+    "static/js/2.c65d5156.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1c342e9c.chunk.js"
+  ]
+}
